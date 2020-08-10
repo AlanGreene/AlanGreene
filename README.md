@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey! 👋
 
 <!--
 **AlanGreene/AlanGreene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Alan (he/him), a software engineer, music lover, and lifelong learner living in Dublin, Ireland.
+
+I'm a [Tekton Dashboard](https://github.com/tektoncd/dashboard) maintainer and occasionally hack on some home automation stuff too.
+
+Say hello on [Twitter](https://twitter.com/alan_greene).
